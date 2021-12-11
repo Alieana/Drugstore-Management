@@ -1,2 +1,2 @@
 # Drugstore-Management
-Java
+Basic Java SE 
