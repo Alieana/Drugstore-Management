@@ -1,2 +1,2 @@
 # Drugstore-Management
-Basic Java SE 
+Basic Java program to apply OOP concept
